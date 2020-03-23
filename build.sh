@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-docker build --rm --pull -t timhaak/proxy .
+IMAGE_NAME=timhaak/proxy
+docker build --pull --rm --build-arg PHP_VERSION='5.6' -t "${IMAGE_NAME}" .
