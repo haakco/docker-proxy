@@ -24,3 +24,4 @@ ubuntu.mirror.ac.za
 ftp.sun.ac.za
 za.archive.ubuntu.com
 archive.ubuntu.com
+.archive.ubuntu.com
