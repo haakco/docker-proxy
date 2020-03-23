@@ -25,3 +25,8 @@ ftp.sun.ac.za
 za.archive.ubuntu.com
 archive.ubuntu.com
 .archive.ubuntu.com
+
+
+### Raspberypi
+archive.raspberrypi.org
+.archive.raspberrypi.org
